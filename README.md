@@ -7,10 +7,12 @@ Também estamos utilizando uma Api da twilio para o envio de SMS.
 
 Obs: O Heroko vai tirar seu plano gratis então logo a aplicação não vai conseguir fazer a sua requisição.
 
-##layout da aplicação
-![image](https://user-images.githubusercontent.com/82763928/202932480-9259e8d1-809f-4726-b69e-8ed8612b5aad.pn
+## layout da aplicação
 
-##Tecnologias utilizadas
+![image](https://user-images.githubusercontent.com/82763928/202933142-cf38366b-8574-4faf-94ea-159e5a30a041.png)
+
+
+## Tecnologias utilizadas
 
 - React
 - Typescrip
@@ -20,7 +22,7 @@ Api
 
 - Twilio SMS
 
-``
+````
 
 -- É preciso ter um editor de código, [Vscode](https://code.visualstudio.com/) pode ajudar na hora de visializar a implementação.
  
